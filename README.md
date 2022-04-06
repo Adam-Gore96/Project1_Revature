@@ -27,5 +27,14 @@ Have the ability to request queries from the exhibits, museums, and (WIP) Collec
 ***Museum***
 Museums - > Exibits - > Collection
 
+## Technologies
+
+YARN
+HDFS
+Scala
+Hive
+Hadoop
+
+
 
 (WIP) collection items for exhibits
